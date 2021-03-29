@@ -1,0 +1,19 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "{\"Hello World\"}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "grapesoda"
+  },
+  "keywords": [
+    "color",
+    "clock"
+  ],
+  "author": "\"\"",
+  "license": "ISC"
+}
